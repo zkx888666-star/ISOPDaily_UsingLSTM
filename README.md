@@ -1,5 +1,3 @@
-# ISOPDaily_UsingLSTM
-ISOPDaily_UsingLSTM
  (cd "$(git rev-parse --show-toplevel)" && git apply --3way <<'EOF' 
 diff --git a/Cal_DailyISOP_FromHCHO_Multipleregression_LSTM_anofromMatlab.py b/Cal_DailyISOP_FromHCHO_Multipleregression_LSTM_anofromMatlab.py
 index da26c85213a59c12c61d2eea27bbed7c72d7d75c..32d31f00c8348ef8ccb7f45b3001aad5dc00f163 100644
